@@ -1,0 +1,806 @@
+,Unnamed: 0,PlayerName,Born,Height,Hand,LinkPlayer,Weight,Birt,Rank
+757,757,Zane Khan,USA,,right,,,2002-2-11,838.0
+758,758,Daniel Elahi Galan,Colombia,191.0,right,,72.0,1996-6-18,67.0
+759,759,Nicolas Bruna,Chile,,right,,,1999-1-19,663.0
+760,760,Corentin Moutet,France,175.0,left,,68.0,1999-4-19,51.0
+761,761,Antonio Muniz Hidalgo,Spain,183.0,right,,70.0,2000-1-18,1550.0
+762,762,Gilles De Sousa,France,,right,,,1982-12-29,1097.0
+763,763,Lucas Gerch,Germany,193.0,left,,86.0,1994-12-20,278.0
+764,764,Thiago Monteiro,Brazil,183.0,left,,78.0,1994-5-31,61.0
+765,765,Pablo Carreno Busta,Spain,188.0,right,,78.0,1991-7-12,10.0
+766,766,Reilly Opelka,USA,211.0,right,,102.0,1997-8-28,17.0
+767,767,Boris Pashanski,Serbia,180.0,right,,74.0,1982-11-3,55.0
+768,768,Mathieu Bouwen,Belgium,,right,,,1999-3-26,
+769,769,Nathan Eshmade,Australia,191.0,right,,80.0,1994-4-18,978.0
+770,770,James Frawley,Australia,183.0,right,,74.0,1994-3-29,606.0
+771,771,Hugo Dellien,Bolivia,180.0,right,,75.0,1993-6-16,64.0
+772,772,Jeremy Sonkin,USA,188.0,right,,93.0,1986-7-10,821.0
+773,773,Alexandre Hebras,France,,right,,,1996-3-26,
+774,774,Fabien Reboul,France,,right,,,1995-9-9,45.0
+775,775,Tommy Paul,USA,185.0,right,,82.0,1997-5-17,17.0
+776,776,Jamie Praditngam,Great Britain,,right,,,1995-3-7,
+777,777,Mohammed Reda,Kuwait,,right,,,1994-4-22,
+778,778,Jakub Paul,Switzerland,,right,,,1999-3-22,207.0
+779,779,Nicolas Jarry,Chile,198.0,right,,90.0,1995-10-11,38.0
+780,780,Luca Nardi,Italy,,right,,,2003-8-6,299.0
+781,781,Alexander Nonnekes,Netherlands,,right,,,1984-5-12,701.0
+782,782,Mathieu Loosvelt,Belgium,,right,,,1995-8-14,
+783,783,Roberto Vizcaino,Spain,,right,,,1957-4-25,
+784,784,Stan Smith,,,,,,,
+785,785,Andres Gimeno,,,,,,,
+786,786,Zeljko Franulovic,,,,,,,
+787,787,Eduardo Osta,,,,,,,
+788,788,Jiri Hrebec,,,,,,,
+789,789,Edoardo Mazza,,,,,,,
+790,790,Henry Pfister,USA,,right,,,1953-10-9,
+791,791,Stefan Simonsson,,,,,,,
+792,792,Alfonso Gonzalez,,,,,,,
+793,793,Georges Goven,,,,,,,
+794,794,Jan Norback,,,,,,,
+795,795,Adriano Panatta,,,,,,,
+796,796,Thomas Stalhandske,,,,,,,
+797,797,Paul Torre,,,,,,,
+798,798,Mark Cox,,,,,,,
+799,799,Brad Drewett,,,,,,,
+800,800,Trevor Allan,Australia,,left,,,1955-8-17,
+801,801,Thomas Setodji,France,183.0,right,,83.0,1995-10-13,820.0
+802,802,Lorenzo Fucile,Italy,,right,,,1997-5-13,
+803,803,Tommy Haas,Germany,187.0,right,,88.0,1978-4-3,2.0
+804,804,Romain Monney,Switzerland,,right,,,1991-4-12,
+805,805,Tomas Berdych,Czech Republic,195.0,right,,90.0,1985-9-17,4.0
+0,0,Florian Simbozel,France,,right,,,1996-2-16,
+1,1,Pedro Munafo,Argentina,,right,,,1992-12-21,1113.0
+2,2,Yannis Baltogiannis,Belgium,,right,,,1993-2-5,
+3,3,Jake Eames,Australia,183.0,right,,75.0,1991-1-8,695.0
+4,4,Joaquin Gonzalez Bosch,Spain,,right,,,1994-4-18,
+5,5,Peter Nagy,Hungary,180.0,right,,73.0,1992-3-17,409.0
+6,6,Torsten Wietoska,Germany,,right,,,1989-5-7,457.0
+7,7,Pol Toledo Bague,Spain,178.0,right,,72.0,1994-12-22,372.0
+8,8,Oliver Anderson,Australia,175.0,right,,73.0,1998-4-30,639.0
+9,9,Thibault Saive,Belgium,,right,,,1996-7-23,
+10,10,Fabian Van Der Lans,Netherlands,,right,,,1995-10-29,1253.0
+11,11,Pedro Mol,Netherlands,,right,,,1991-4-5,
+12,12,Benjamin Bonzi,France,185.0,right,,76.0,1996-6-9,42.0
+13,13,Victor Ouvrard,France,,right,,,1992-5-13,996.0
+14,14,Dominik Bartels,Germany,,left,,,1992-12-6,
+15,15,Sebastian Rivera,Ecuador,178.0,right,,77.0,1986-9-18,705.0
+16,16,Cesar Ferrer-Victoria,Spain,,right,,,1980-10-8,560.0
+17,17,Emanuele Molina,Italy,,right,,,1991-7-10,807.0
+18,18,Sam De Paepe,Belgium,,right,,,1995-2-20,
+19,19,Benjamin Strunk,Germany,,right,,,1992-3-2,
+20,20,Thomas Heyse,Belgium,,right,,,1993-4-9,
+21,21,Samuel Bensoussan,France,170.0,right,,68.0,1991-11-18,405.0
+22,22,Omar Salman,Belgium,180.0,right,,74.0,1996-4-22,464.0
+23,23,Germain Gigounon,Belgium,178.0,right,,73.0,1989-4-20,185.0
+24,24,Gustavo Guerses,Brazil,178.0,right,,73.0,1990-12-30,744.0
+25,25,Christian Hirschmueller,Germany,198.0,right,,87.0,1993-3-11,671.0
+26,26,Gerard Platero,Spain,,right,,,1995-8-21,
+27,27,Marcelo Zormann,Brazil,180.0,right,,,1996-6-10,467.0
+28,28,Thomas Dehaen,Belgium,,right,,,1991-9-16,
+29,29,Kevin Farin,Belgium,,right,,,1993-1-18,832.0
+30,30,Lucas Zweili,Switzerland,,right,,,1991-4-5,1144.0
+31,31,Mischa Nowicki,Germany,183.0,right,,,1991-8-15,1443.0
+32,32,Benjamin Devos,Belgium,,right,,,1991-2-6,
+33,33,Andrei Daescu,Romania,,right,,,1988-8-28,126.0
+34,34,Romain Jouan,France,193.0,right,,77.0,1985-7-16,209.0
+35,35,Jordan Paquot,Belgium,,right,,,1992-10-21,
+36,36,Julien Sterbelle,Belgium,,right,,,1992-8-7,1409.0
+37,37,Arnaud Delgado,France,,right,,,1984-5-18,997.0
+38,38,Philip De Vetter,Belgium,,right,,,1991-10-9,
+39,39,Marc Garcia-Roman,Spain,,right,,,1989-1-23,984.0
+40,40,Roger Ordeig,Spain,,right,,,1991-12-20,
+41,41,Abdullah Maqdes,,,,,,,
+42,42,Luca Rovetta,Italy,183.0,right,,70.0,1986-9-30,903.0
+43,43,Kirill Ivanov-Smolensky,Russia,,right,,,1981-1-19,226.0
+44,44,Stephane Piro,France,,left,,,1989-8-12,1117.0
+45,45,Keyvan Nematzadeh,Belgium,,right,,,1996-7-11,
+46,46,Francisco Olivares,Chile,,right,,,1988-1-4,1049.0
+47,47,Lovro Zovko,Croatia,191.0,right,,80.0,1981-3-18,153.0
+48,48,Lars Zimmermann,Germany,,right,,,1978-7-22,749.0
+49,49,Kevin Anderson,RSA,203.0,right,,94.0,1986-5-18,5.0
+50,50,Roger Federer,Switzerland,187.0,right,,85.0,1981-8-8,1.0
+51,51,Kim Tiilikainen,Finland,,right,,,1975-7-8,402.0
+52,52,Genius Chidzikwe,Zimbabwe,,right,,,1979-8-3,380.0
+53,53,Attila Savolt,Hungary,,right,,,1976-2-5,134.0
+54,54,Jeroen Claeys,Belgium,,right,,,1991-7-11,
+55,55,Oscar Burrieza-Lopez,Spain,170.0,right,,66.0,1975-7-22,140.0
+56,56,Gregoire Jacq,France,180.0,left,,72.0,1992-11-9,332.0
+57,57,Maxime Braeckman,Belgium,,right,,,1985-4-2,975.0
+58,58,Romain Barbosa,Belgium,183.0,right,,80.0,1994-4-17,403.0
+59,59,Andre Wiesler,Germany,,right,,,1982-8-1,959.0
+60,60,Henrik Sillanpaa,Finland,185.0,right,,78.0,1991-1-24,503.0
+61,61,Tobias Clemens,Germany,,right,,,1979-8-14,537.0
+62,62,Joseph Van Dooren,Belgium,,right,,,1994-3-26,1224.0
+63,63,Anton Pavlov,Estonia,175.0,left,,66.0,1995-8-4,891.0
+64,64,Sami Reinwein,Germany,180.0,left,,75.0,1992-5-29,488.0
+65,65,Ashok Narayana,USA,,right,,,1993-9-23,
+66,66,Facundo Bagnis,Argentina,183.0,left,,82.0,1990-2-27,55.0
+67,67,Robin Cambier,Belgium,,right,,,1992-7-6,1097.0
+68,68,Sebastien Job,Belgium,,right,,,1991-9-4,
+69,69,Clement Maas,Luxembourg,,right,,,1991-4-8,
+70,70,Ilija Bozoljac,Serbia,193.0,right,,86.0,1985-8-2,101.0
+71,71,Grzegorz Panfil,Poland,183.0,left,,76.0,1988-1-1,238.0
+72,72,Robert Hinzmann,,,,,,,
+73,73,Wouter Adriaansen,Netherlands,,right,,,1992-8-10,
+74,74,Aisam-Ul-Haq Qureshi,Pakistan,183.0,right,,82.0,1980-3-17,125.0
+75,75,Jean-Michel Pequery,France,,right,,,1978-5-30,256.0
+76,76,Fedor Baev,Norway,191.0,right,,,1993-1-24,
+77,77,Maximilian Abel,Germany,,right,,,1982-2-28,183.0
+78,78,Massimo Capone,Italy,,right,,,1985-10-12,440.0
+79,79,Johann Potron,France,,right,,,1977-7-14,521.0
+80,80,Petr Luxa,Czech Republic,,right,,,1972-3-3,46.0
+81,81,Mark Nielsen,New Zealand,,right,,,1977-10-8,172.0
+82,82,Jason Stoltenberg,Australia,,right,,,1970-4-4,236.0
+83,83,Christian Bergstrom,Sweden,,right,,,1967-7-19,
+84,84,Jasper Smit,Netherlands,,right,,,1980-11-17,121.0
+85,85,Niels Desein,Belgium,191.0,right,,85.0,1987-6-9,154.0
+86,86,Amaury van Haelen,Belgium,,right,,,1987-2-23,
+87,87,Gergely Pribranszki,Hungary,,right,,,1984-8-20,
+88,88,Philippe De Bonnevie,France,,left,,,1985-12-20,408.0
+89,89,Remko de Rijke,Netherlands,,right,,,1986-11-6,776.0
+90,90,Jean-Claude Scherrer,Switzerland,,right,,,1978-7-20,72.0
+91,91,Barry Cowan,Great Britain,,left,,,1974-8-25,139.0
+92,92,Niels Cleeren,Belgium,,right,,,1991-10-25,
+93,93,Mousa Shanan Zayed,Qatar,,right,,,1994-3-9,1304.0
+94,94,Olivier Charroin,France,183.0,left,,,1982-3-10,538.0
+95,95,Martin Klizan,Slovakia,191.0,left,,85.0,1989-7-11,24.0
+96,96,Maxime Faniel,Belgium,,right,,,1991-1-24,
+97,97,Laurent-Olivier Daxhelet,Belgium,,right,,,1991-7-15,1017.0
+98,98,Maniel Bains,Great Britain,,right,,,1989-4-23,766.0
+99,99,Gustavo Kuerten,Brazil,191.0,right,,83.0,1976-9-10,1.0
+100,100,Yannick Fattebert,,,,,,,
+101,101,David Novak,Czech Republic,,left,,,1983-2-22,490.0
+102,102,Philippe Frayssinoux,France,,right,,,1986-9-20,759.0
+103,103,Pim Van Mele,Belgium,,left,,,1981-10-14,1261.0
+104,104,Julien Boutter,France,191.0,right,,86.0,1974-4-5,46.0
+105,105,Eyal Ran,Israel,,right,,,1972-11-21,74.0
+106,106,Edward Seator,Great Britain,,right,,,1986-4-7,426.0
+107,107,Luis-Felipe Contreras,Chile,,right,,,1983-2-15,
+108,108,Michal Konecny,Czech Republic,183.0,left,,78.0,1989-10-13,285.0
+109,109,Oskar Pallin,Sweden,,right,,,1984-10-8,1193.0
+110,110,Sander Groen,Netherlands,191.0,left,,85.0,1968-6-16,703.0
+111,111,Sergi Bruguera,Spain,,right,,,1971-1-16,718.0
+112,112,Marcos Ondruska,RSA,,right,,,1972-12-18,67.0
+113,113,Jordi Marse-Vidri,Spain,,right,,,1980-7-21,216.0
+114,114,Bertrand Tinck,Belgium,,right,,,1977-10-8,824.0
+115,115,Lars Uebel,Germany,180.0,right,,88.0,1980-10-14,242.0
+116,116,Brent Larkham,Australia,,right,,,1972-1-8,
+117,117,David Gentile,Belgium,,right,,,1988-10-19,
+118,118,Vasilis Mazarakis,Greece,,right,,,1980-2-9,101.0
+119,119,Miliaan Niesten,Netherlands,183.0,left,,65.0,1988-6-27,431.0
+120,120,David Brewer,Great Britain,,right,,,1985-2-24,469.0
+121,121,David Miketa,Czech Republic,,right,,,1975-6-4,266.0
+122,122,Jaroslav Pesek,Czech Republic,,right,,,1976-11-29,
+123,123,Erik Truempler,Germany,,right,,,1976-10-12,523.0
+124,124,Floris Kilian,Netherlands,,right,,,1987-1-1,
+125,125,Sebastiaan Bonapart,Netherlands,,right,,,1994-6-17,1502.0
+126,126,Sebastien Rocher,France,,right,,,1987-10-28,1238.0
+127,127,Morgan Lesur,Belgium,,right,,,1989-11-10,
+128,128,Thomas Schoeck,Germany,,right,,,1981-10-29,470.0
+129,129,Roko Karanusic,Croatia,183.0,right,,75.0,1982-9-5,87.0
+130,130,Laslo Urrutia Fuentes,,,,,,,
+131,131,Laurentiu Erlic,Romania,,right,,,1986-12-20,791.0
+132,132,Julien Onclin,Belgium,,left,,,1984-11-3,
+133,133,Frankie Joe Hoar,Great Britain,,right,,,1991-9-28,
+134,134,Athanassios Manekas,Greece,,right,,,1998-9-8,1800.0
+135,135,Bruno Alvarez,Belgium,,right,,,1984-4-30,
+136,136,Gregory Keymolen,Belgium,,right,,,1975-8-4,
+137,137,Bart Van Delft,Netherlands,,right,,,1983-2-25,1034.0
+138,138,Yuanfeng Li,China,,left,,,1993-11-10,641.0
+139,139,Christophe Lenzi,France,,right,,,1985-10-23,1277.0
+140,140,Martin Fischer,Austria,180.0,right,,71.0,1986-7-21,117.0
+141,141,Filip Prpic,Sweden,173.0,right,,74.0,1982-5-26,194.0
+142,142,Ivan Arenas-Gualda,Spain,,left,,,1990-10-31,209.0
+143,143,Jeremias Lima-Perez,Spain,,right,,,1989-4-3,1978.0
+144,144,Filippo Leonardi,Italy,,right,,,1987-12-22,588.0
+145,145,Bjorn Rehnquist,Sweden,,right,,,1978-1-5,349.0
+146,146,Stian Boretti,Norway,188.0,right,,88.0,1981-12-20,375.0
+147,147,Salvador Rodriguez-Mayoralas,Spain,,right,,,1986-7-5,904.0
+148,148,Gerard Gallego-Bertran,Spain,,left,,,1990-6-29,1082.0
+149,149,Kristof Lybeer,Belgium,,right,,,1979-12-29,
+150,150,Sandro Salvi,Switzerland,,right,,,1990-9-26,
+151,151,Santiago Giraldo,Colombia,188.0,right,,75.0,1987-11-27,28.0
+152,152,Michal Przysiezny,Poland,185.0,right,,84.0,1984-2-16,57.0
+153,153,Simon Greul,Germany,185.0,right,,80.0,1981-4-13,55.0
+154,154,Stefan Koubek,Austria,175.0,left,,68.0,1977-1-2,21.0
+155,155,Marzio Martelli,Italy,,right,,,1971-12-14,480.0
+156,156,Joseph Sirianni,Australia,178.0,right,,76.0,1975-1-17,138.0
+157,157,Simon Roberts,Great Britain,,right,,,1983-2-16,1334.0
+158,158,Chris Eaton,Great Britain,,right,,,1987-11-27,317.0
+159,159,Laurens Verboven,Belgium,,right,,,1997-4-18,746.0
+160,160,Thomas Brees,Belgium,,man,,,1998-4-6,
+161,161,Calvin Hemery,France,191.0,right,,83.0,1995-1-28,116.0
+162,162,Joachim Sternbach,France,,right,,,1991-1-21,
+163,163,Costin Paval,Romania,191.0,left,,89.0,1990-9-1,722.0
+164,164,Alexandar Lazov,,,,,,,
+165,165,Maxim Verboven,Belgium,188.0,right,,80.0,2000-2-8,
+166,166,Egor Gerasimov,Belarus,196.0,right,,86.0,1992-11-11,65.0
+167,167,Dante Gennaro,Argentina,188.0,right,,88.0,1993-5-14,445.0
+168,168,Luke Oakley,Great Britain,,left,,,1997-5-29,1328.0
+169,169,Mate Pavic,Croatia,191.0,left,,83.0,1993-7-4,295.0
+170,170,Kristian Pless,Denmark,188.0,right,,84.0,1981-2-9,65.0
+171,171,Thomas Does,Netherlands,,right,,,1997-7-18,
+172,172,Jonathan Gray,Great Britain,185.0,right,,74.0,1997-4-9,538.0
+173,173,Marko Mokrzycki,,,,,,,
+174,174,Peter Lucassen,Netherlands,,right,,,1988-3-9,746.0
+175,175,Cristian Garin,Chile,185.0,right,,85.0,1996-5-30,17.0
+176,176,Gerald Moretti,Belgium,,right,,,1992-9-21,1626.0
+177,177,Joel Cannell,Great Britain,185.0,right,,80.0,1997-11-27,822.0
+178,178,Lasse Muscheites,Germany,,right,,,1996-4-25,623.0
+179,179,Goran Duquesne,Belgium,,right,,,1999-8-31,
+180,180,Theo Van De Weghe,Belgium,,right,,,2000-1-12,
+181,181,Gregory Bayane,France,,right,,,1992-10-28,1433.0
+182,182,Frederic Jacobs,Belgium,,man,,,,
+183,183,Harry Lim,Australia,,left,,,1994-7-14,
+184,184,Andreas Vinciguerra,Sweden,180.0,left,,73.0,1981-2-19,33.0
+185,185,Nikoloz Basilashvili,Georgia,185.0,right,,79.0,1992-2-23,16.0
+186,186,Turpal Gadamauri,Belgium,,right,,,1997-7-7,
+187,187,Ziad Sultan,Kuwait,,right,,,1993-6-7,
+188,188,Clement Tabur,France,170.0,right,,70.0,2000-1-24,310.0
+189,189,Joss Espasandin,Switzerland,,right,,,1990-5-4,828.0
+190,190,Otakar Lucak,Czech Republic,,right,,,1990-11-21,567.0
+191,191,Mischa Zverev,Germany,191.0,left,,88.0,1987-8-22,25.0
+192,192,Satoshi Suzuki,Japan,,right,,,1985-8-9,
+193,193,Michel Meijer,Netherlands,,right,,,1985-12-6,893.0
+194,194,Jesse Levine,Canada,175.0,left,,68.0,1987-10-15,69.0
+195,195,Hugo Schott,France,,right,,,1996-9-5,885.0
+196,196,Nicolas De Marco,Argentina,,right,,,1998-9-6,
+197,197,Dusan Vemic,Serbia,188.0,right,,91.0,1976-6-17,146.0
+198,198,Yan Sabanin,Russia,191.0,right,,88.0,1990-1-31,598.0
+199,199,Jakob Kevelaerts,Belgium,,right,,,1994-9-16,
+200,200,Ali Ghareeb,Kuwait,,right,,,1986-3-16,1307.0
+201,201,Marcelo Ignacio Barros Troncoso,Chile,,right,,,1997-1-29,
+202,202,Nicolas Ferrando,Argentina,,right,,,1996-6-25,
+203,203,Adriaan De Jager,Netherlands,,right,,,1994-6-4,
+204,204,Lucas Grego,France,,right,,,1997-8-12,
+205,205,Tristan Farron-Mahon,Ireland,,right,,,1987-5-26,870.0
+206,206,Jonathan Milsztajn,France,,right,,,1988-8-1,
+207,207,Kevin Jordi,Switzerland,,right,,,1992-10-8,
+208,208,Alexander Cornelissen,Belgium,,right,,,1989-5-5,
+209,209,Patrick Pradella,Germany,193.0,right,,84.0,1990-7-18,1310.0
+210,210,Arnaud Graisse,Belgium,,right,,,1990-5-21,
+211,211,Michal Tabara,Czech Republic,,right,,,1979-8-11,147.0
+212,212,Julian Lenz,Germany,188.0,right,,82.0,1993-2-17,227.0
+213,213,Roy De Valk,Netherlands,,right,,,1991-12-30,543.0
+214,214,Patrick Daciek,USA,,right,,,1990-3-9,830.0
+215,215,Ivan Miranda,Peru,175.0,right,,70.0,1980-3-8,106.0
+216,216,Alun Jones,Australia,180.0,right,,69.0,1980-4-26,123.0
+217,217,Gero Kretschmer,Germany,191.0,right,,77.0,1985-5-6,316.0
+218,218,Frederic Niemeyer,Canada,,right,,,1976-4-24,142.0
+219,219,Panagiotis Stavrianeas,,,,,,,
+220,220,Jan Meyer,Germany,,right,,,1993-4-8,
+221,221,Maxime Petel,France,185.0,right,,80.0,1997-4-21,970.0
+222,222,Frederik Press,Germany,188.0,right,,85.0,1995-4-4,694.0
+223,223,Xin Gao,China,,right,,,1994-5-12,198.0
+224,224,Johannes Ingildsen,Denmark,,right,,,1997-7-1,294.0
+225,225,Philippe Gelade,Belgium,,right,,,1996-8-23,1548.0
+226,226,Sherif Sabry,Egypt,,right,,,1986-8-29,410.0
+227,227,Maximilian Mann,Austria,,right,,,1990-4-19,
+228,228,Dennis Bloemke,Germany,,right,,,1989-7-23,588.0
+229,229,Enrico Becuzzi,Italy,185.0,right,,77.0,1973-3-23,1453.0
+230,230,Ivan Goluza,Australia,,left,,,1995-5-29,1472.0
+231,231,Nathaniel Lammons,USA,180.0,right,,84.0,1993-8-12,591.0
+232,232,Henrik Traskin,Lithuania,,right,,,1998-10-17,1546.0
+233,233,Nicolas Beaufort,Belgium,,right,,,1990-11-14,
+234,234,Leny Mitjana,France,183.0,right,,75.0,1994-8-1,458.0
+235,235,Nicolas Ancedy,Guadeloupe,,left,,,1995-3-18,1484.0
+236,236,Mats Hermans,Netherlands,183.0,right,,75.0,1996-4-6,1368.0
+237,237,Christophe Nickels,Luxembourg,,right,,,1990-9-1,1193.0
+238,238,Cristobal Grandon Diaz,Chile,,right,,,1991-6-2,1655.0
+239,239,Kevin Deden,Germany,,right,,,1984-2-25,480.0
+240,240,Fernando Romboli,Brazil,180.0,right,,81.0,1989-1-4,236.0
+241,241,Pedro Bernardi,Brazil,198.0,right,,,1991-4-16,946.0
+242,242,Samuel Shropshire,USA,188.0,right,,82.0,1994-11-20,901.0
+243,243,Julien Mathieu,France,,right,,,1982-4-22,735.0
+244,244,Francois Chatelle,Belgium,,right,,,1990-5-8,
+245,245,Rodrigo Navarro,Bolivia,,right,,,1974-1-22,1457.0
+246,246,Till Wegner,Germany,,right,,,1997-2-12,1375.0
+247,247,Martin Prikryl,Czech Republic,,right,,,1992-6-10,1043.0
+248,248,Joshua Milton,Great Britain,,right,,,1989-10-14,498.0
+249,249,Alessandro Bega,Italy,173.0,right,,68.0,1991-1-11,259.0
+250,250,Peter Ballauff,,,,,,,
+251,251,Steve Krulevitz,,,,,,,
+252,252,Alvaro Betancur,,,,,,,
+253,253,Barry Phillips-Moore,,,,,,,
+254,254,Balazs Taroczy,,,,,,,
+255,255,Jean-Francois Caujolle,,,,,,,
+256,256,Karl Meiler,,,,,,,
+257,257,Jaromir Becka,,,,,,,
+258,258,Joakim Berner,Finland,,right,,,1957-11-21,
+259,259,George Bezecny,,,,,,,
+260,260,Patrice Kuchna,,,,,,,
+261,261,Bernard Mignot,,,,,,,
+262,262,Eric Dawance,,,,,,,
+263,263,Freddie Sauer,,,,,,,
+264,264,Christophe Van De Weghe,,,,,,,
+265,265,Juan Carlos Rodriguez,Colombia,,right,,,1981-7-26,
+266,266,Bernard Boileau,,,,,,,
+267,267,Tino Anda,,,,,,,
+268,268,Jaime Fillol Sr.,,,,,,,
+269,269,Andras Lanyi,,,,,,,
+270,270,Luca Bottazzi,,,,,,,
+271,271,Gustavo Luza,,,,,,,
+272,272,Eric Drossart,,,,,,,
+273,273,Patrick Hombergen,,,,,,,
+274,274,Rolf Gehring,,,,,,,
+275,275,Gustavo Guerrero,,,,,,,
+276,276,Bernhard Pils,,,,,,,
+277,277,Santiago Mora,Spain,,right,,,1995-12-26,
+278,278,Eric Fromm,,,,,,,
+279,279,Karel Demuynck,,,,,,,
+280,280,Olli Rahnasto,,,,,,,
+281,281,Alain Brichant,,,,,,,
+282,282,Martin Strelba,,,,,,,
+283,283,Matt Anger,,,,,,,
+284,284,Jacques Grandjean,,,,,,,
+285,285,Brian Gottfried,,,,,,,
+286,286,Vitas Gerulaitis,,,,,,,
+287,287,Jesus Colas,,,,,,,
+288,288,Thierry Pham,,,,,,,
+289,289,Jorge Bardou,,,,,,,
+290,290,Heinz Gunthardt,Switzerland,,right,,,1959-2-8,
+291,291,Tom Furukrantz,,,,,,,
+292,292,Wojtek Fibak,,,,,,,
+293,293,Haroon Ismail,,,,,,,
+294,294,Luis Bruguera,,,,,,,
+295,295,Patricio Cornejo,,,,,,,
+296,296,Denis Langaskens,Belgium,,right,,,1966-9-20,
+297,297,Oliver Fuchs,Austria,,right,,,1971-3-16,
+298,298,Lars-Anders Wahlgren,,,,,,,
+299,299,Mike Myburg,,,,,,,
+300,300,David Mustard,,,,,,,
+301,301,Fernando Maynetto,,,,,,,
+302,302,Stanislav Birner,,,,,,,
+303,303,Andres Molina,,,,,,,
+304,304,Per Hjertquist,,,,,,,
+305,305,Andrew Jarrett,,,,,,,
+306,306,Jaroslav Navratil,,,,,,,
+307,307,Patrik Fischer,Switzerland,,right,,,1985-8-7,
+308,308,Julien Maes,France,,right,,,1981-2-28,492.0
+309,309,Cedric Pucheux,France,,right,,,1983-2-5,
+310,310,Maik Steiner,Germany,188.0,right,,,1994-6-19,899.0
+311,311,Andrea Guerrieri,Italy,178.0,left,,,1998-12-3,714.0
+312,312,Maxime Lapraille,Belgium,,right,,,1999-5-25,
+313,313,Lautaro Agustin Falabella,Argentina,,right,,,1998-1-19,775.0
+314,314,Jeremy De Bodt,Belgium,,right,,,2001-6-6,
+315,315,Bart Van Monsjou,Netherlands,,right,,,1985-10-25,685.0
+316,316,Ivo Heuberger,Switzerland,,right,,,1976-2-19,121.0
+317,317,Jacques Gley,France,,right,,,1980-4-24,1197.0
+318,318,Guillaume Dermiens,Belgium,,right,,,1999-9-4,1254.0
+319,319,Sebastian Prechtel,Germany,185.0,right,,78.0,1996-5-14,549.0
+320,320,Jordan Thompson,Australia,183.0,right,,82.0,1994-4-20,43.0
+321,321,Martin Katz,Belgium,,right,,,,
+322,322,Francois Schoukens,,,,,,,
+323,323,Michel Dornbusch,Germany,,right,,,1990-9-30,704.0
+324,324,Thomas Pouleur,Belgium,,right,,,1999-9-15,
+325,325,Jack Molloy,Great Britain,,right,,,1999-7-22,
+326,326,Dennis Lajola,USA,,right,,,1989-2-12,1078.0
+327,327,Alex Antonitsch,Austria,,right,,,1966-2-8,
+328,328,Stefan Svensson,,,,,,,
+329,329,Jan Van Langendonck,,,,,,,
+330,330,Eliot Teltscher,,,,,,,
+331,331,John Frawley,,,,,,,
+332,332,Tomas Smid,Czech Republic,,right,,,1979-8-15,
+333,333,Walter Bertini,,,,,,,
+334,334,Guillermo Aubone,,,,,,,
+335,335,Eduard Jahl,,,,,,,
+336,336,Shahar Perkiss,,,,,,,
+337,337,Roberto Arguello,Argentina,,right,,,1963-5-12,
+338,338,Richard Whichello,,,,,,,
+339,339,Nick Bendtsen,,,,,,,
+340,340,MaliVai Washington,USA,,right,,,1969-6-20,707.0
+341,341,Peter Nyborg,Sweden,,right,,,1969-12-12,47.0
+342,342,Vincent Van Patten,,,,,,,
+343,343,Hans Gildemeister,,,,,,,
+344,344,Russell Barlow,,,,,,,
+345,345,Tom Toomey,,,,,,,
+346,346,Sergio Ribeiro,,,,,,,
+347,347,Peter Lindgren,,,,,,,
+348,348,Jean-Marc Piacentile,,,,,,,
+349,349,Carlos Kirmayr,,,,,,,
+350,350,Jean Fisette,,,,,,,
+351,351,Zdenek Slizek,,,,,,,
+352,352,Eric Marquet,,,,,,,
+353,353,Roland Stadler,,,,,,,
+354,354,Hans Kary,,,,,,,
+355,355,John Feaver,,,,,,,
+356,356,Gregoire Rafaitin,,,,,,,
+357,357,Alberto Tous,,,,,,,
+358,358,Hendrik Dreekmann,Germany,,right,,,1975-1-29,501.0
+359,359,Nevio Devide,,,,,,,
+360,360,Lars Holmblad,,,,,,,
+361,361,Sandor Noszaly,Hungary,193.0,right,,93.0,1972-3-16,642.0
+362,362,Nam-Ju Bae,South Korea,,right,,,1965-12-5,1082.0
+363,363,Jae-Sik Kim,South Korea,,right,,,1967-5-17,941.0
+364,364,Mikael Pernfors,,,,,,,
+365,365,Didier Jacquet,,,,,,,
+366,366,Alberto Paris,,,,,,,
+367,367,Johnny Goudenbour,Luxembourg,,right,,,1963-12-31,
+368,368,Jaime Oncins,Brazil,196.0,right,,82.0,1970-6-16,187.0
+369,369,Fernando Meligeni,Brazil,180.0,left,,64.0,1971-4-12,26.0
+370,370,Mario Mertens,,,,,,,
+371,371,Brad Gilbert,USA,185.0,right,,79.0,1961-8-9,912.0
+372,372,Chip Hooper,,,,,,,
+373,373,Steve Cornelissen,,,,,,,
+374,374,Shlomo Glickstein,,,,,,,
+375,375,Ferdi Taygan,,,,,,,
+376,376,Cassio Motta,,,,,,,
+377,377,Ricardo Ycaza,Ecuador,,right,,,1958-2-16,
+378,378,Tim Gullikson,,,,,,,
+379,379,Wayne Hampson,,,,,,,
+380,380,John Sadri,,,,,,,
+381,381,Paul Chamberlin,,,,,,,
+382,382,Ulrich Pinner,,,,,,,
+383,383,Thierry Stevaux,,,,,,,
+384,384,Peter McNamara,,,,,,,
+385,385,Ronnie Bathman,,,,,,,
+386,386,Giovanni Lelli Mami,,,,,,,
+387,387,Derek Tarr,,,,,,,
+388,388,Peter Svensson,,,,,,,
+389,389,Pavel Slozil,,,,,,,
+390,390,Jose Garcia-Requena,,,,,,,
+391,391,Klaus Eberhard,,,,,,,
+392,392,Dan Cassidy,,,,,,,
+393,393,Pierre Godfroid,,,,,,,
+394,394,Miloslav Mecir Sr.,,,,,,,
+395,395,Jens Woehrmann,,,,,,,
+396,396,Brian Teacher,,,,,,,
+397,397,Thierry Meeuws,,,,,,,
+398,398,Dominik Guido Utzinger,,,,,,,
+399,399,Magnus Tideman,,,,,,,
+400,400,Victor Caldarelli,,,,,,,
+401,401,Mika Hedman,,,,,,,
+402,402,Morten Christensen,Denmark,,right,,,1965-6-15,
+403,403,Sebastien Gerard,,,,,,,
+404,404,Felix Romeo,Belgium,,right,,,2001-5-22,
+405,405,Uros Vico,Italy,188.0,right,,83.0,1981-2-19,171.0
+406,406,Thibault De Negri,Belgium,,right,,,1999-7-2,
+407,407,Pedro Iamachkine,Peru,,right,,,1996-4-3,954.0
+408,408,Stefano Baldoni,Italy,,right,,,1997-8-26,1629.0
+409,409,Kai Wehnelt,Germany,,right,,,1995-11-27,193.0
+410,410,Louis Quennessen,France,,right,,,1986-11-28,
+411,411,Alec Adamson,USA,196.0,right,,88.0,,454.0
+412,412,Tim Van Rijthoven,Netherlands,188.0,right,,89.0,1997-4-24,101.0
+413,413,Theo Vandeweghe,Belgium,,right,,,2000-1-12,
+414,414,Shinnosuke Hiramatsu,Japan,,right,,,1996-10-11,1308.0
+415,415,Marcel Marlon Sudzum,Netherlands,,right,,,2000-11-29,
+416,416,Tibo Colson,Belgium,,right,,,2000-7-12,1056.0
+417,417,Adrian Oetzbach,Germany,185.0,right,,80.0,1997-10-29,968.0
+418,418,Luke Jacob Gamble,USA,,left,,,1995-4-18,575.0
+419,419,Enzo Do Porto,Argentina,,right,,,1994-4-11,
+420,420,Elgin Khoeblal,Netherlands,,right,,,,
+421,421,Daniel Czepielewski,Germany,,right,,,1996-4-21,
+422,422,Aitor Aramburu,Mexico,170.0,right,,72.0,1991-11-30,1663.0
+423,423,Tristan Meraut,France,185.0,right,,80.0,1995-12-27,813.0
+424,424,Jake Hersey,Great Britain,,right,,,2000-5-21,1163.0
+425,425,Max Colorado,,,,,,,
+426,426,Mehdi Jdi,Morocco,,right,,,1988-12-13,1229.0
+427,427,Jabor Al-Mutawa,,,,,,,
+428,428,Richard Urbain,Belgium,,right,,,1989-3-5,
+429,429,David Perez Sanz,Spain,,right,,,1994-5-15,158.0
+430,430,Vincent Suillerot,France,,left,,,1994-5-21,1214.0
+431,431,Ignasi De Rueda De Genover,Spain,183.0,right,,75.0,1998-2-11,990.0
+432,432,Dominik Recek,Czech Republic,,right,,,1995-2-19,961.0
+433,433,Valentin Nourrissat,France,196.0,right,,84.0,1991-8-9,1091.0
+434,434,Amaury Delmas,France,,right,,,1998-4-1,750.0
+435,435,Lukas Hellum-Lilleengen,Norway,180.0,right,,75.0,2000-11-15,1089.0
+436,436,Thorsten Sollie,Netherlands,,right,,,1998-2-11,
+437,437,Tobias Schade,Germany,,right,,,1984-11-20,
+438,438,Samuel Ribeiro Navarrete,Spain,183.0,right,,73.0,1993-6-12,723.0
+439,439,Bart Stevens,Netherlands,180.0,right,,78.0,1998-1-29,736.0
+440,440,Gijs Buntsma,Netherlands,,right,,,1996-2-1,
+441,441,Benoit Lanckohr,Belgium,,right,,,1994-10-28,
+442,442,Federico Delbonis,Argentina,193.0,left,,90.0,1990-10-5,33.0
+443,443,Pierre Yves Bailly,Belgium,,right,,,,
+444,444,Stephan Gerritsen,Netherlands,,right,,,1996-6-30,536.0
+445,445,Alexandre Aubriot,France,,right,,,1999-6-6,1203.0
+446,446,Gabriel Donev,Bulgaria,,right,,,1996-6-29,701.0
+447,447,Jordy Looman,Netherlands,,right,,,1990-2-23,
+448,448,Alexander Gorovits,,,,,,,
+449,449,Scott Puodziunas,Australia,198.0,right,,95.0,1989-11-9,891.0
+450,450,Samm Butler,Great Britain,,left,,,1995-2-9,1073.0
+451,451,David Chaplefeh Forchap,Germany,,left,,,1994-6-11,1350.0
+452,452,Julien Cuaz,France,,right,,,1977-3-17,238.0
+453,453,Fernando Las Heras,Argentina,,right,,,1977-11-17,337.0
+454,454,Thomas Schreyer,Germany,,right,,,1979-11-29,697.0
+455,455,Juan Ignacio Chela,Argentina,190.0,right,,75.0,1979-8-30,15.0
+456,456,Igor Saric,Croatia,,right,,,1967-7-4,511.0
+457,457,Horst Skoff,Austria,,right,,,1968-8-22,811.0
+458,458,Cyril Buscaglione,France,,right,,,1972-3-24,316.0
+459,459,Otaker Ungerman,,,,,,,
+460,460,Younes El Aynaoui,Morocco,,right,,,1971-9-12,89.0
+461,461,Andrei Merinov,,,,,,,
+462,462,Paul Hartveg,Germany,,right,,,1977-2-10,393.0
+463,463,Jan Frode Andersen,Norway,,left,,,1972-8-29,297.0
+464,464,Thomas Enqvist,Sweden,191.0,right,,88.0,1974-3-13,4.0
+465,465,Jonathan Stark,USA,,right,,,1971-4-3,13.0
+466,466,Rainer Gunther,Germany,,right,,,1974-6-10,1058.0
+467,467,Pascal Schaul,Luxembourg,,right,,,1979-1-11,866.0
+468,468,Frederic Petitjean,France,,right,,,1979-7-19,768.0
+469,469,Gregory Bauwens,Belgium,,left,,,1977-11-21,1144.0
+470,470,Razvan Sabau,Romania,185.0,right,,76.0,1977-6-18,74.0
+471,471,Damien Vera,France,,right,,,1975-7-29,561.0
+472,472,Luis Horna,Peru,180.0,right,,81.0,1980-9-14,33.0
+473,473,Frederic Vitoux,France,,right,,,1970-10-30,
+474,474,Hernan Gumy,Argentina,,right,,,1972-3-5,461.0
+475,475,Alex O'Brien,USA,,right,,,1970-3-7,2.0
+476,476,Martin Stringari,Argentina,,right,,,1971-10-9,429.0
+477,477,Kenneth Carlsen,Denmark,,left,,,1973-4-17,134.0
+478,478,Dieter Leurs,Belgium,,right,,,1977-1-4,
+479,479,Ulf Stenlund,Sweden,,right,,,1967-1-21,
+480,480,Alessio Di Mauro,Italy,185.0,left,,71.0,1977-8-9,68.0
+481,481,Tomas Anzari,Czech Republic,,right,,,1970-6-24,99.0
+482,482,Lionel Barthez,France,,right,,,1967-5-18,333.0
+483,483,Martin Sinner,Germany,,right,,,1968-2-7,445.0
+484,484,Peter Bastiansen,,,,,,,
+485,485,Alain Schott,,,,,,,
+486,486,Michael Tebbutt,Australia,,left,,,1970-12-22,54.0
+487,487,Agustin Calleri,Argentina,182.0,right,,86.0,1976-9-14,16.0
+488,488,Damian Furmanski,Argentina,,right,,,1975-10-5,236.0
+489,489,Stefano Pescosolido,Italy,,right,,,1971-6-13,102.0
+490,490,Jerome Golmard,France,,left,,,1973-9-9,145.0
+491,491,Denis Golovanov,Russia,188.0,right,,80.0,1978-3-27,152.0
+492,492,Alex Radulescu,Germany,,right,,,1974-12-7,184.0
+493,493,Lars Koslowski,Germany,,right,,,1971-5-22,443.0
+494,494,Bernd Karbacher,Germany,,right,,,1968-4-3,261.0
+495,495,Alexander Popp,Germany,,right,,,1976-11-4,314.0
+496,496,Menno Oosting,Netherlands,,right,,,1964-5-17,
+497,497,Nicolas Perrein,France,,right,,,1976-3-12,504.0
+498,498,Alexander Mronz,Germany,,right,,,1965-4-7,
+499,499,Jean-Francois Bachelot,France,,right,,,1977-6-11,74.0
+500,500,Dominic Stoeckler,Switzerland,,right,,,1984-1-24,
+501,501,Charles Auffray,France,,right,,,1973-2-24,619.0
+502,502,Nicolas Massu,Chile,182.0,right,,80.0,1979-11-10,9.0
+503,503,Flavio Cipolla,Italy,173.0,right,,74.0,1983-10-20,70.0
+504,504,Alberto Brizzi,Italy,,right,,,1984-3-26,253.0
+505,505,Radomir Vasek,Czech Republic,,right,,,1972-9-23,175.0
+506,506,Cedric Roelant,Belgium,,right,,,1986-2-11,
+507,507,Alexander Flock,Germany,191.0,right,,80.0,1983-5-15,224.0
+508,508,Nikolas Zogaj,Belgium,,right,,,1989-4-14,
+509,509,Heiko Bollich,Germany,,right,,,1980-8-17,708.0
+510,510,Alex Miotto,Great Britain,,right,,,1984-9-18,1203.0
+511,511,Jean-Baptiste Perlant,France,,right,,,1977-2-22,384.0
+512,512,Torben Theine,Germany,,left,,,1968-7-10,
+513,513,Julian Alonso,Spain,185.0,right,,82.0,1977-8-2,38.0
+514,514,Sandro Della Piana,Switzerland,,right,,,1968-9-19,477.0
+515,515,Jiri Novak,Czech Republic,191.0,right,,86.0,1975-3-22,5.0
+516,516,Albert Costa,Spain,,right,,,1975-6-25,102.0
+517,517,David Wheaton,USA,,right,,,1969-6-2,84.0
+518,518,Renaud Thys,Belgium,,right,,,1982-4-4,901.0
+519,519,Andres Schneiter,Argentina,,right,,,1976-4-8,68.0
+520,520,Christian Grunes,Germany,,left,,,1978-1-25,514.0
+521,521,Fritz Buehning,,,,,,,
+522,522,Fabio Silberberg,Brazil,,left,,,1969-3-25,
+523,523,Scott Davis,USA,,right,,,1962-8-27,
+524,524,Matt Mitchell,,,,,,,
+525,525,Mike De Palmer,,,,,,,
+526,526,Joakim Nystrom,Sweden,,right,,,1983-2-20,
+527,527,Mike Leach,,,,,,,
+528,528,Mark Koevermans,,,,,,,
+529,529,Laurent Prades,,,,,,,
+530,530,Marcello Bassanelli,,,,,,,
+531,531,Filip Krajcik,,,,,,,
+532,532,Scott Lipton,,,,,,,
+533,533,Jiri Granat,,,,,,,
+534,534,Hans-Peter Kandler,,,,,,,
+535,535,Miloslav Lacek,,,,,,,
+536,536,Thomas Muster,Austria,180.0,left,,77.0,1967-10-2,20.0
+537,537,Daniel Roig,,,,,,,
+538,538,Felipe Rivera,Chile,,right,,,1996-6-11,
+539,539,Brian Dunn,USA,,right,,,1974-4-5,
+540,540,Miguel Merz,,,,,,,
+541,541,David Witt,USA,,right,,,1973-6-2,225.0
+542,542,Sammy Giammalva Jr.,,,,,,,
+543,543,Peter Moraing,Germany,,right,,,1961-9-13,
+544,544,Daniel Vacek,Czech Republic,,right,,,1971-4-1,4.0
+545,545,Gerard Solves,France,,right,,,1968-4-7,450.0
+546,546,Henrik Sundstrom,,,,,,,
+547,547,Rick Leach,USA,,left,,,1964-12-28,
+548,548,Jose Alejos,Spain,,right,,,1971-1-16,
+549,549,Michael Westphal,,,,,,,
+550,550,Pablo Arraya,,,,,,,
+551,551,Arne Thoms,Germany,,right,,,1971-1-1,830.0
+552,552,Eric Wilborts,,,,,,,
+553,553,Cliff Letcher,,,,,,,
+554,554,Todd Nelson,,,,,,,
+555,555,Hector Ortiz,Spain,,right,,,1985-3-4,
+556,556,Pat Dupre,,,,,,,
+557,557,Sandy Mayer,,,,,,,
+558,558,Bernard Fritz,,,,,,,
+559,559,Dirk Leppen,,,,,,,
+560,560,Adrian Targett,,,,,,,
+561,561,Alejo Mancisidor,Spain,,right,,,1970-7-13,
+562,562,Ettore Rossetti,,,,,,,
+563,563,Miguel Pastura,Argentina,,right,,,1973-5-27,343.0
+564,564,Cedric Melot,,,,,,,
+565,565,Christoph Geukens,,,,,,,
+566,566,Scott Brown,USA,,left,,,1982-9-16,991.0
+567,567,Philippe Pech,France,,left,,,1966-8-9,
+568,568,Larry Stefanki,,,,,,,
+569,569,Hans Simonsson,,,,,,,
+570,570,Francisco Gonzalez,Mexico,,right,,,,
+571,571,Omar Camporese,Italy,,right,,,1968-5-8,212.0
+572,572,Harald Theissen,,,,,,,
+573,573,Bruce Manson,,,,,,,
+574,574,Florian Krumrey,,,,,,,
+575,575,Slimane Saoudi,Algeria,,left,,,1975-7-23,422.0
+576,576,Marcelo Ingaramo,Argentina,,left,,,1962-10-13,
+577,577,Frederic Fontang,France,,right,,,1970-3-18,1300.0
+578,578,Wayne Ferreira,RSA,185.0,right,,85.0,1971-9-15,11.0
+579,579,Thomas Haldin,,,,,,,
+580,580,Kelly Jones,USA,,right,,,1964-3-31,
+581,581,Thomas Gollwitzer,Germany,,right,,,1966-7-24,
+582,582,Roberto Carretero,Spain,,right,,,1975-8-30,707.0
+583,583,Mihnea-Ion Nastase,,,,,,,
+584,584,Lionel Roux,France,,right,,,1973-4-12,257.0
+585,585,Olivier Tauma,France,,right,,,1974-3-12,394.0
+586,586,Robinson Ureta,Chile,,right,,,1963-3-10,
+587,587,Andrea Gaudenzi,Italy,183.0,right,,84.0,1973-7-30,31.0
+588,588,Julien Chauvin,France,,right,,,1975-4-17,645.0
+589,589,Levi Dewaegenaere,Belgium,,right,,,1978-2-4,956.0
+590,590,Branislav Stankovic,Slovakia,,right,,,1965-5-30,
+591,591,Wolfgang Popp,,,,,,,
+592,592,Rolf Hertzog,,,,,,,
+593,593,Enrico Cocchi,,,,,,,
+594,594,Federico Sanchez,,,,,,,
+595,595,Stephen Noteboom,Netherlands,,right,,,1969-7-31,
+596,596,Michael Geserer,Germany,,right,,,1969-12-14,752.0
+597,597,Alois Beust,France,,right,,,1970-2-8,
+598,598,Givaldo Barbosa,,,,,,,
+599,599,Roger Rasheed,Australia,,right,,,1969-3-10,
+600,600,Stephane Woit,,,,,,,
+601,601,Bob Green,,,,,,,
+602,602,Jose Francisco Altur,Spain,,left,,,1968-3-24,
+603,603,Dinu Pescariu,Romania,,right,,,1974-4-12,129.0
+604,604,Sebastian Baez,Argentina,170.0,right,,70.0,2000-12-28,30.0
+605,605,Zachary Eisinga,Netherlands,,right,,,2000-1-9,916.0
+606,606,Jared Donaldson,USA,188.0,right,,75.0,1996-10-9,48.0
+607,607,Liam Broady,Great Britain,183.0,left,,78.0,1994-1-4,116.0
+608,608,Marc Giner,Spain,183.0,right,,76.0,1991-6-18,245.0
+609,609,Nicholas David Ionel,Romania,183.0,right,,71.0,2002-10-12,202.0
+610,610,Jan Minar,Czech Republic,189.0,right,,77.0,1981-4-9,177.0
+611,611,Petar Trendafilov,Bulgaria,180.0,right,,75.0,1984-9-11,825.0
+612,612,Joao Menezes,Brazil,185.0,right,,81.0,1996-12-17,172.0
+613,613,Ramkumar Ramanathan,India,188.0,right,,80.0,1994-11-8,111.0
+614,614,Andreas Mies,Germany,188.0,right,,84.0,1990-8-21,781.0
+615,615,Daniel Dutra da Silva,Brazil,,left,,,1988-7-5,207.0
+616,616,Lucas Catarina,Monaco,185.0,right,,80.0,1996-8-26,341.0
+617,617,Yuqing Ning,China,178.0,right,,,1994-5-9,821.0
+618,618,Marcus Mansson,Sweden,193.0,right,,89.0,1995-8-16,1438.0
+619,619,Lorenzo Sonego,Italy,191.0,right,,76.0,1995-5-11,21.0
+620,620,Marc-Andrea Huesler,Switzerland,196.0,left,,88.0,1996-6-24,47.0
+621,621,Michael Ryderstedt,Sweden,188.0,left,,78.0,1984-11-12,130.0
+622,622,Nenad Zimonjic,Serbia,191.0,right,,91.0,1976-6-4,184.0
+623,623,Dudi Sela,Israel,175.0,right,,65.0,1985-4-4,29.0
+624,624,Vytis Balsiukas,Lithuania,,right,,,1987-1-13,1252.0
+625,625,M. Abid Ali Khan Akbar,,,,,,,
+626,626,Adrian Andrzejczuk,Poland,193.0,right,,85.0,1996-3-18,887.0
+627,627,Filip Peliwo,Poland,180.0,right,,72.0,1994-1-30,161.0
+628,628,Benoit Paire,France,196.0,right,,80.0,1989-5-8,18.0
+629,629,Jan Hajek,Czech Republic,180.0,right,,80.0,1983-8-7,71.0
+630,630,Hernan Casanova,Argentina,178.0,right,,76.0,1994-2-6,221.0
+631,631,Pedro Araujo,Portugal,,right,,,2002-3-26,417.0
+632,632,Tomas Gerini,Italy,170.0,right,,71.0,1995-7-20,1119.0
+633,633,Carsten Ball,Australia,198.0,left,,91.0,1987-6-20,108.0
+634,634,David Ferrer,Spain,175.0,right,,72.0,1982-4-2,3.0
+635,635,Walid Jallali,Tunisia,,right,,,1978-6-30,493.0
+636,636,Louis Van Herck,Belgium,,right,,,1999-7-2,
+637,637,Yuki Bhambri,India,185.0,right,,75.0,1992-7-4,83.0
+638,638,David Jorda Sanchis,Spain,196.0,right,,86.0,1994-6-14,508.0
+639,639,Yates Johnson,USA,,right,,,,
+640,640,Dan Alexandru Tomescu,Romania,,right,,,1999-3-30,445.0
+641,641,Andrea Bolla,Italy,,right,,,1998-10-28,979.0
+642,642,Jordan Ubiergo,France,193.0,right,,88.0,1993-7-27,571.0
+643,643,Guillermo Garcia-Lopez,Spain,185.0,right,,80.0,1983-6-4,23.0
+644,644,Maxime Vandendooren,Belgium,,right,,,1998-12-23,
+645,645,Filip Veger,Croatia,,right,,,1994-12-21,557.0
+646,646,Marek Jaloviec,Czech Republic,180.0,left,,72.0,1994-2-21,244.0
+647,647,Aljaz Bedene,Slovenia,183.0,right,,73.0,1989-7-18,43.0
+648,648,Pedro Martinez,Spain,185.0,right,,76.0,1997-4-26,40.0
+649,649,Tim Van Der Horst,Netherlands,,right,,,1995-9-30,1150.0
+650,650,Glenn Smits,Netherlands,,right,,,1990-10-24,1264.0
+651,651,Sander Arends,Netherlands,196.0,right,,96.0,1991-8-9,1057.0
+652,652,Vadym Ursu,Ukraine,180.0,right,,71.0,,508.0
+653,653,Scott Nicolas,Belgium,,right,,,1996-8-21,
+654,654,Javier Naser,Chile,,right,,,1996-12-3,1114.0
+655,655,Anders Arenfeldt Holm,Denmark,,right,,,1995-10-20,1185.0
+656,656,Denis Shapovalov,Canada,185.0,left,,75.0,1999-4-15,10.0
+657,657,Holger Rune,Denmark,185.0,right,,68.0,2003-4-29,7.0
+658,658,Denis Kapric,Germany,,right,,,1994-8-24,591.0
+659,659,Alexander Gasson,Great Britain,,right,,,1994-11-17,
+660,660,Nicolas Renavand,France,,right,,,1982-6-25,118.0
+661,661,Marco Di Maro,Italy,,right,,,1992-7-27,
+662,662,Simone Roncalli,Italy,175.0,right,,73.0,1996-5-8,536.0
+663,663,Bernabe Zapata Miralles,Spain,183.0,right,,82.0,1997-1-12,38.0
+664,664,Alexander Hoogmartens,Belgium,,right,,,,
+665,665,David Pel,Netherlands,198.0,left,,95.0,1991-7-9,885.0
+666,666,Constantin Belot,France,,right,,,1991-2-20,707.0
+667,667,Nathan Freire Da Silva,France,,right,,,1996-12-16,
+668,668,Jose Fco. Vidal Azorin,Spain,178.0,right,,68.0,1993-6-12,442.0
+669,669,Peter Heller,Germany,185.0,right,,76.0,1992-8-12,273.0
+670,670,Michele Vianello,Italy,,right,,,2001-1-3,
+671,671,Julien De Cuyper,France,188.0,right,,,1999-5-18,1425.0
+672,672,Robert Strombachs,Latvia,191.0,right,,78.0,1999-9-15,408.0
+673,673,Tristan-Samuel Weissborn,Austria,180.0,left,,78.0,1991-10-24,503.0
+674,674,Alec Deckers,Netherlands,193.0,right,,82.0,2000-5-2,544.0
+675,675,Tobias Simon,Germany,198.0,right,,96.0,1991-5-18,391.0
+676,676,Roland Stuurman,Netherlands,,right,,,1999-6-6,979.0
+677,677,Aleksandr Nedovyesov,Kazakhstan,193.0,right,,81.0,1987-2-15,72.0
+678,678,Serinho Wijdenbosch,Netherlands,,right,,,1986-6-27,1080.0
+679,679,Hugo Pontico,France,180.0,right,,70.0,1997-10-19,844.0
+680,680,Cedrik-Marcel Stebe,Germany,183.0,left,,70.0,1990-10-9,71.0
+681,681,Arnau Brugues-Davi,Spain,183.0,left,,82.0,1985-3-5,135.0
+682,682,Alessandro Ingarao,Italy,,right,,,1999-8-2,842.0
+683,683,Dominic Barretto,USA,,right,,,1998-6-7,
+684,684,Alexandre Tsuchiya,Brazil,180.0,right,,74.0,1992-12-5,649.0
+685,685,Nikolas Walterscheid-Tukic,Germany,,right,,,1996-11-27,1617.0
+686,686,Roberto Bautista Agut,Spain,183.0,right,,75.0,1988-4-14,9.0
+687,687,Mohammad Ghareeb,,,,,,,
+688,688,Arvind Parmar,Great Britain,,right,,,1978-3-22,236.0
+689,689,Marcelo Demoliner,Brazil,193.0,right,,86.0,1989-1-18,232.0
+690,690,Franck Pepe,France,,right,,,1988-7-1,
+691,691,Erik Elliott,USA,178.0,right,,77.0,1989-3-13,1315.0
+692,692,Karlo Cubelic,Germany,188.0,left,,77.0,1998-1-13,1028.0
+693,693,Alexander Seeger,Germany,,right,,,1987-4-2,
+694,694,Benjamin Hannestad,Denmark,,right,,,1997-2-14,644.0
+695,695,Florian Barth,Germany,,right,,,1989-3-6,596.0
+696,696,Federico Moreno,Argentina,180.0,right,,82.0,1994-8-5,849.0
+697,697,Nicolas Zaidman,Argentina,,right,,,1999-12-7,1472.0
+698,698,Jonathan Van Nieuwenhove,Belgium,,left,,,1998-5-13,
+699,699,Lucas Trentin,Belgium,,right,,,1997-3-8,
+700,700,Nicolas De Plaen,Belgium,,right,,,1993-1-13,
+701,701,Felipe Martinez Sarrasague,Argentina,178.0,right,,81.0,1997-4-2,799.0
+702,702,Gianluca Luddi,Italy,,right,,,1978-2-4,440.0
+703,703,Albano Olivetti,France,203.0,right,,104.0,1991-11-24,161.0
+704,704,Julian Onken,,,,,,,
+705,705,Adelchi Virgili,Italy,,right,,,1990-3-10,378.0
+706,706,Loic Perret,Switzerland,188.0,right,,85.0,1994-6-8,893.0
+707,707,Esteban  Bruna,Chile,183.0,left,,80.0,1995-1-19,1106.0
+708,708,Alexei Popyrin,Australia,196.0,right,,78.0,1999-8-5,59.0
+709,709,Tim Nekic,Germany,,left,,,1992-12-9,941.0
+710,710,Micke Kontinen,Finland,,right,,,1992-12-18,489.0
+711,711,Diego Garcia,Spain,,right,,,1999-5-7,
+712,712,Daniel Baumann,Germany,,right,,,1995-2-8,1298.0
+713,713,Andrej Martin,Slovakia,183.0,right,,83.0,1989-9-20,93.0
+714,714,Sjors Van Der Velden,Netherlands,,right,,,1995-4-11,
+715,715,Matteo Civarolo,Italy,,right,,,1992-2-11,1085.0
+716,716,Matvey Minin,Russia,185.0,left,,81.0,2001-6-28,871.0
+717,717,Tommaso Metti,Italy,,right,,,1993-1-25,
+718,718,Eric Hechtman,USA,,right,,,1983-10-24,1058.0
+719,719,Quentin Robert,France,,right,,,1991-9-30,
+720,720,Peter Gojowczyk,Germany,188.0,right,,83.0,1989-7-15,39.0
+721,721,Henrik Wiersholm,USA,178.0,right,,73.0,1997-3-27,838.0
+722,722,Maximo Gonzalez,Argentina,175.0,right,,75.0,1983-7-20,58.0
+723,723,Morgan Bourbon,France,,right,,,1993-3-29,1469.0
+724,724,Niklas Schell,Germany,,right,,,1999-1-3,218.0
+725,725,Neven Krivokuca,Croatia,180.0,left,,68.0,1995-9-15,955.0
+726,726,Nicholas Horton,Australia,,right,,,1995-3-18,1028.0
+727,727,Youcef Rihane,Algeria,,right,,,2001-6-21,1269.0
+728,728,Thomas Deschamps,France,,right,,,1998-7-19,1738.0
+729,729,Mats Uytterhoeven,Belgium,,right,,,1991-12-22,
+730,730,John-Patrick Smith,Australia,188.0,left,,84.0,1989-1-24,108.0
+731,731,Sam Taylor,Sweden,,right,,,1997-7-3,823.0
+732,732,Antoine Bellier,Switzerland,196.0,left,,80.0,1996-10-18,168.0
+733,733,Matthew Dellavedova,Australia,191.0,right,,81.0,2000-5-30,543.0
+734,734,Victor Vlad Cornea,Romania,198.0,left,,81.0,1993-9-24,786.0
+735,735,Marcin Gawron,Poland,,right,,,1988-5-25,268.0
+736,736,Victor Ernaelsteen,Belgium,,right,,,2000-3-22,1369.0
+737,737,Lucas Hellfritsch,Germany,,right,,,1998-2-28,1055.0
+738,738,Simone Cacciapuoti,Italy,,right,,,2000-8-27,1722.0
+739,739,Ivan Dodig,Croatia,183.0,right,,83.0,1985-1-2,29.0
+740,740,Matteo Rigamonti,Italy,,right,,,1991-2-6,1405.0
+741,741,Ikaika Jobe,USA,,right,,,1982-8-18,377.0
+742,742,Attila Balazs,Hungary,180.0,right,,78.0,1988-9-27,76.0
+743,743,John Millman,Australia,183.0,right,,79.0,1989-6-14,33.0
+744,744,Charles Minc,France,,right,,,1993-7-9,1513.0
+745,745,Lorenzo Frigerio,Italy,,right,,,1989-2-17,375.0
+746,746,Gianluca Mager,Italy,188.0,right,,77.0,1994-12-1,62.0
+747,747,Arnaud Destrebecq,Belgium,,right,,,1998-2-20,
+748,748,Liam Dielen,Belgium,,right,,,1998-9-23,
+749,749,Michalis Sakellaridis,Greece,,right,,,2001-1-15,1308.0
+750,750,Alen Avidzba,Russia,188.0,right,,76.0,2000-2-24,380.0
+751,751,Alexandr Dolgopolov,,,,,,,
+752,752,Yannick Hanfmann,Germany,193.0,right,,86.0,1991-11-13,92.0
+753,753,Alexander Mannapov,Germany,191.0,right,,85.0,1995-4-21,1654.0
+754,754,Alexander Kotzen,USA,,right,,,2000-7-1,764.0
+755,755,Nick Broekhof,Netherlands,,right,,,1998-5-8,
